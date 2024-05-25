@@ -2,6 +2,8 @@
 
 # Haveno Website
 
+ Haveno Main is independent instance of HavenoDex. It is not affilated with Haveno Core or Monero Core Team.
+
 Repository of the Haveno Website. Built on jekyll.
 
 https://haveno.sc
