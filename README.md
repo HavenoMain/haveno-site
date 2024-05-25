@@ -4,7 +4,8 @@
 
 Repository of the Haveno Website. Built on jekyll.
 
-https://haveno.exchange
+https://haveno.sc
+https://haveno.me
 
 To test it locally:
 
